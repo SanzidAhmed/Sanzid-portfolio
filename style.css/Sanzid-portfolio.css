@@ -125,6 +125,7 @@ nav li {
 /* What i do styles */
 .what-i-do {
     margin-top: 130px;
+    
 
 }
 
@@ -156,6 +157,7 @@ nav li {
 
 .skill-container {
     display: flex;
+    gap: 10px;
 }
 
 .skill-title {
@@ -165,3 +167,6 @@ nav li {
     margin-bottom: 20px;
 }
 /* Resume styles */
+.resume-content{
+display: flex;
+}
